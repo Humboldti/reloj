@@ -1,2 +1,3 @@
-# reloj
-Reloj diseño flat
+# Reloj Flat Design 
+## https://github.com/Humboldti/reloj
+> Lucas Figueroa
